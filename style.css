@@ -21,9 +21,9 @@
 body{
     min-height: 100vh;
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin: 0;
     font-family: 'Figtree',sans-serif;
     font-size: .8rem;
     background-color: #f4cf51;
